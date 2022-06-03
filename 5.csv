@@ -1,0 +1,10 @@
+Shop,Date,Make,Model,Type,Price,Qty,Income
+online,01.03.2022,BMW,320,car,20000,2,40000
+offline,02.03.2022,Honda,Shadow,bike,12000,3,36000
+online,03.03.2022,Suzuki,Ignis,car,15000,1,15000
+offline,04.03.2022,Toyota,Camry,car,30000,2,60000
+online,05.03.2022,BMW,R-1000,bike,18000,2,36000
+offline,06.03.2022,Honda,Civic,car,20000,3,60000
+online,07.03.2022,Suzuki,GSX-R,bike,16000,2,32000
+offline,08.03.2022,BMW,GS-750,bike,14000,1,14000
+online,09.03.2022,Honda,CBR,bike,12000,2,24000
